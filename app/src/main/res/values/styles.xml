@@ -8,11 +8,4 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="SuperHiperButton" parent="Widget.AppCompat.Button">
-        <item name="android:background">@drawable/button_color</item>
-        <item name="android:textColor">@color/button_color</item>
-        <item name="android:width">@dimen/bt_w</item>
-        <item name="android:height">@dimen/bt_h</item>
-    </style>
-
 </resources>

@@ -1,4 +1,4 @@
-package c.c.kolory;
+package c.c.colors;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
