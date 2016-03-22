@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color1">#FFFF00</color>
+    <color name="color2">#FF7904</color>
+    <color name="color3">#FF0000</color>
+    <color name="color4">#FF00C3</color>
+    <color name="color5">#6600FF</color>
+    <integer-array name="colors">
+        <item>@color/color1</item>
+        <item>@color/color2</item>
+        <item>@color/color3</item>
+        <item>@color/color4</item>
+        <item>@color/color5</item>
+    </integer-array>
+    <color name="buttonColor1">#008287</color>
+    <color name="buttonColor2">#1F8700</color>
+</resources>
